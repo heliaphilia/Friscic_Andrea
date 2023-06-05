@@ -1,0 +1,26 @@
+p {
+		color:black;
+		font-family: "Century Schoolbook L";
+		font-size: 20px;
+		line-height: 22px;
+		width: 1000px;
+}
+
+h1, h2 {
+	font-family: "Century Schoolbook L";
+	color: purple;
+	
+}
+
+body {
+	background-image: url("html projekt/novapoz.jpg")
+	
+}
+
+a:link{ color: black; font-size: 20px;}
+
+ol, ul, blockquote{ font-size: 20px;}
+
+img{
+	height: 200px;
+}
